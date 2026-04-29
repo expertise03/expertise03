@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h4 align="left">👩‍💻 About Me<br><br>✨ Final-year student at SMVEC College, Puducherry<br>🎓 Pursuing B.Tech in Artificial Intelligence & Data Science (CGPA: 9.33)<br>🌐 Also pursuing an Honors Degree in Advanced Web Development<br><br>💡 Passionate about building intelligent and scalable solutions<br>🚀 Interests: Artificial Intelligence, Machine Learning, Deep Learning, Full-Stack Development<br>💼 Freelancer with hands-on project experience<br>🔗 Active on LinkedIn, always exploring opportunities to learn, connect, and grow</h4>
+<h2 align="left">👩‍💻 About Me<br><br>✨ Final-year student at SMVEC College, Puducherry<br>🎓 Pursuing B.Tech in Artificial Intelligence & Data Science (CGPA: 9.33)<br>🌐 Also pursuing an Honors Degree in Advanced Web Development<br><br>💡 Passionate about building intelligent and scalable solutions<br>🚀 Interests: Artificial Intelligence, Machine Learning, Deep Learning, Full-Stack Development<br>💼 Freelancer with hands-on project experience<br>🔗 Active on LinkedIn, always exploring opportunities to learn, connect, and grow</h2>
 
 ###
 
@@ -79,7 +79,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <a href="Linkedin.com/in/harini-p-24b367327/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -100,6 +102,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/expertise03/expertise03/output/pacman-contribution-graph-dark.svg">
@@ -131,6 +135,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/expertise03/expertise03/output/snake.svg" alt="Snake animation" />
 
