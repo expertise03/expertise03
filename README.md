@@ -126,7 +126,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/expertise03/expertise03/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/expertise03/output/snake.svg" alt="Snake animation" />
 
 ###
 
